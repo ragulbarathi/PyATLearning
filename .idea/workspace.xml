@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="workspace.xml" />
+    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="exercises replicated and commited">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -249,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723264952627</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="exercises replicated and commited">
+      <option name="closed" value="true" />
+      <created>1723308230035</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1723308230035</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,6 +296,7 @@
     <MESSAGE value="About source code,python rules" />
     <MESSAGE value="Added exercises 6-13 for 10/08/24 which has max function,variables,data types,keywords,identifiers,rules of python for git commit and push mainly." />
     <MESSAGE value="Refactored name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored name" />
+    <MESSAGE value="exercises replicated and commited" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercises replicated and commited" />
   </component>
 </project>
