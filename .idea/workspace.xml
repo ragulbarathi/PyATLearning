@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="10/08/2024 test run2" />
+    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="10/08/2024 deleted test files">
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/Lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723258901434</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="10/08/2024 deleted test files">
+      <option name="closed" value="true" />
+      <created>1723262612193</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723262612193</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +208,7 @@
     <MESSAGE value="08/08/2024 First commit of the project and the day." />
     <MESSAGE value="10/08/2024 test run" />
     <MESSAGE value="10/08/2024 test run2" />
-    <option name="LAST_COMMIT_MESSAGE" value="10/08/2024 test run2" />
+    <MESSAGE value="10/08/2024 deleted test files" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/08/2024 deleted test files" />
   </component>
 </project>
