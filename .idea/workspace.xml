@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Added exercises 6-13 for 10/08/24 which has max function,variables,data types,keywords,identifiers,rules of python for git commit and push mainly." />
+    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -233,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723264634850</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Refactored name">
+      <option name="closed" value="true" />
+      <created>1723264723361</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1723264723361</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,6 +277,7 @@
     <MESSAGE value="lab004 dummy code" />
     <MESSAGE value="About source code,python rules" />
     <MESSAGE value="Added exercises 6-13 for 10/08/24 which has max function,variables,data types,keywords,identifiers,rules of python for git commit and push mainly." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added exercises 6-13 for 10/08/24 which has max function,variables,data types,keywords,identifiers,rules of python for git commit and push mainly." />
+    <MESSAGE value="Refactored name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored name" />
   </component>
 </project>
