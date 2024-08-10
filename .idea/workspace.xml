@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="added Lab001 first exercise">
-      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab003.py" afterDir="false" />
+    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="About source code,python rules">
+      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +64,10 @@
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
     "Python.ex_01_08Aug24.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -195,7 +207,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723263432916</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lab003 added builtin about print function">
+      <option name="closed" value="true" />
+      <created>1723263774895</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723263774895</updated>
+    </task>
+    <task id="LOCAL-00011" summary="lab004 dummy code">
+      <option name="closed" value="true" />
+      <created>1723263843103</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1723263843103</updated>
+    </task>
+    <task id="LOCAL-00012" summary="About source code,python rules">
+      <option name="closed" value="true" />
+      <created>1723264018046</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723264018046</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,6 +263,9 @@
     <MESSAGE value="10/08/2024 test run2" />
     <MESSAGE value="10/08/2024 deleted test files" />
     <MESSAGE value="added Lab001 first exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Lab001 first exercise" />
+    <MESSAGE value="Lab003 added builtin about print function" />
+    <MESSAGE value="lab004 dummy code" />
+    <MESSAGE value="About source code,python rules" />
+    <option name="LAST_COMMIT_MESSAGE" value="About source code,python rules" />
   </component>
 </project>
