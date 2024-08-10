@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="About source code,python rules">
-      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082021/Lab013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Added exercises 6-13 for 10/08/24 which has max function,variables,data types,keywords,identifiers,rules of python for git commit and push mainly." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +58,10 @@
     "Python.Lab006.executor": "Run",
     "Python.Lab007.executor": "Run",
     "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
     "Python.ex_01_08Aug24.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -231,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723264018046</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added exercises 6-13 for 10/08/24 which has max function,variables,data types,keywords,identifiers,rules of python for git commit and push mainly.">
+      <option name="closed" value="true" />
+      <created>1723264634834</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723264634850</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,6 +268,7 @@
     <MESSAGE value="Lab003 added builtin about print function" />
     <MESSAGE value="lab004 dummy code" />
     <MESSAGE value="About source code,python rules" />
-    <option name="LAST_COMMIT_MESSAGE" value="About source code,python rules" />
+    <MESSAGE value="Added exercises 6-13 for 10/08/24 which has max function,variables,data types,keywords,identifiers,rules of python for git commit and push mainly." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added exercises 6-13 for 10/08/24 which has max function,variables,data types,keywords,identifiers,rules of python for git commit and push mainly." />
   </component>
 </project>
