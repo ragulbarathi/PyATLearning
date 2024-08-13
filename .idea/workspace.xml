@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Homework task1">
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Homework task2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -278,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723520612717</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Homework task2">
+      <option name="closed" value="true" />
+      <created>1723522235834</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1723522235834</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,6 +322,7 @@
     <MESSAGE value="Refactored name" />
     <MESSAGE value="exercises replicated and commited" />
     <MESSAGE value="Homework task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework task1" />
+    <MESSAGE value="Homework task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework task2" />
   </component>
 </project>
