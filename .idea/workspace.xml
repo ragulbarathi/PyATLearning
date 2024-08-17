@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Homework task2" />
+    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Made a directory named tasks for homeworks and added today's assignment.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,30 +51,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab010.executor": "Run",
-    "Python.Lab012.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.Lab015.executor": "Run",
-    "Python.ex_01_08Aug24.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ragul/PycharmProjects/PyATB4xLearning/src/08082024/Test001.py",
-    "settings.editor.selected.configurable": "project.propDebugger",
-    "two.files.diff.last.used.file": "C:/Users/ragul/PycharmProjects/PyATB4xLearning/src/08082024/Test001.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.String slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_01_08Aug24.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ragul/PycharmProjects/pythonLearning&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propDebugger&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/ragul/PycharmProjects/PyATB4xLearning/src/08082024/Test001.py&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="PyATB4xLearning" is-module-sdk="true">
@@ -83,6 +86,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ragul\PycharmProjects\pythonLearning\src\pythonConcepts" />
+      <recent name="C:\Users\ragul\PycharmProjects\PyATB4xLearning\src\tasks" />
       <recent name="C:\Users\ragul\PycharmProjects\PyATB4xLearning\src\08082024" />
     </key>
   </component>
@@ -283,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723522235834</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Made a directory named tasks for homeworks and added today's assignment.">
+      <option name="closed" value="true" />
+      <created>1723522693937</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1723522693937</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,6 +336,7 @@
     <MESSAGE value="exercises replicated and commited" />
     <MESSAGE value="Homework task1" />
     <MESSAGE value="Homework task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework task2" />
+    <MESSAGE value="Made a directory named tasks for homeworks and added today's assignment." />
+    <option name="LAST_COMMIT_MESSAGE" value="Made a directory named tasks for homeworks and added today's assignment." />
   </component>
 </project>
