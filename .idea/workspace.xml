@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Task 3 added">
-      <change afterPath="$PROJECT_DIR$/src/tasks/Task4.py" afterDir="false" />
+    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Task 4 added">
+      <change afterPath="$PROJECT_DIR$/src/tasks/Task5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -315,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723951696094</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Task 4 added">
+      <option name="closed" value="true" />
+      <created>1723952049043</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1723952049043</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,6 +366,7 @@
     <MESSAGE value="Made a directory named tasks for homeworks and added today's assignment." />
     <MESSAGE value="Renamed as tasks 1 and 2" />
     <MESSAGE value="Task 3 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3 added" />
+    <MESSAGE value="Task 4 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 4 added" />
   </component>
 </project>
