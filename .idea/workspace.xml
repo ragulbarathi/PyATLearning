@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Renamed as tasks 1 and 2">
-      <change afterPath="$PROJECT_DIR$/src/tasks/Task3.py" afterDir="false" />
+    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Task 3 added">
+      <change afterPath="$PROJECT_DIR$/src/tasks/Task4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +69,7 @@
     "Python.Lab015.executor": "Run",
     "Python.String slicing.executor": "Run",
     "Python.Task3.executor": "Run",
+    "Python.Task4.executor": "Run",
     "Python.ex_01_08Aug24.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -306,7 +307,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723871112029</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Task 3 added">
+      <option name="closed" value="true" />
+      <created>1723951696094</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1723951696094</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,6 +357,7 @@
     <MESSAGE value="Homework task2" />
     <MESSAGE value="Made a directory named tasks for homeworks and added today's assignment." />
     <MESSAGE value="Renamed as tasks 1 and 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed as tasks 1 and 2" />
+    <MESSAGE value="Task 3 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 3 added" />
   </component>
 </project>
