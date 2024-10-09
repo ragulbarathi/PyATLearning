@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Tasks 10,11 completed">
-      <change afterPath="$PROJECT_DIR$/src/Oct/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/test_RestfullBookerCollections.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/test_RestfullBookerCollections.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/test_RestfullBookerCollections.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_RestfullBookerCollections.test_TC1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
@@ -82,7 +82,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/ragul/PycharmProjects/PyATLearning&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propDebugger&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
     &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/ragul/PycharmProjects/PyATB4xLearning/src/08082024/Test001.py&quot;
   }
 }</component>
@@ -101,7 +101,7 @@
       <recent name="C:\Users\ragul\PycharmProjects\PyATB4xLearning\src\08082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_RestfullBookerCollections.test_TC1">
+  <component name="RunManager" selected="Python.ex_01_08Aug24">
     <configuration name="Task10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATLearning" />
       <option name="ENV_FILES" value="" />
@@ -409,7 +409,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724308886159</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Tasks 10,11 completed">
+      <option name="closed" value="true" />
+      <created>1728452355598</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1728452355598</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
