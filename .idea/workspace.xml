@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Tasks 7,8,9 Completed">
-      <change afterPath="$PROJECT_DIR$/src/tasks/Task10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/Task11.py" afterDir="false" />
+    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Tasks 10,11 completed">
+      <change afterPath="$PROJECT_DIR$/src/Oct/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/test_RestfullBookerCollections.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,39 +53,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab010.executor": "Run",
-    "Python.Lab012.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.Lab015.executor": "Run",
-    "Python.String slicing.executor": "Run",
-    "Python.Task10.executor": "Run",
-    "Python.Task11.executor": "Run",
-    "Python.Task3.executor": "Run",
-    "Python.Task4.executor": "Run",
-    "Python.Task5.executor": "Run",
-    "Python.Task6.executor": "Run",
-    "Python.Task8.executor": "Run",
-    "Python.Task9.executor": "Run",
-    "Python.ex_01_08Aug24.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ragul/PycharmProjects/PyATLearning",
-    "settings.editor.selected.configurable": "project.propDebugger",
-    "two.files.diff.last.used.file": "C:/Users/ragul/PycharmProjects/PyATB4xLearning/src/08082024/Test001.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.String slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_01_08Aug24.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ragul/PycharmProjects/PyATLearning&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propDebugger&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/ragul/PycharmProjects/PyATB4xLearning/src/08082024/Test001.py&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="PyATB4xLearning" is-module-sdk="true">
@@ -101,7 +101,7 @@
       <recent name="C:\Users\ragul\PycharmProjects\PyATB4xLearning\src\08082024" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_RestfullBookerCollections.test_TC1">
     <configuration name="Task10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATLearning" />
       <option name="ENV_FILES" value="" />
@@ -146,8 +146,24 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_RestfullBookerCollections.test_TC1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Oct" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_RestfullBookerCollections.test_TC1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_RestfullBookerCollections.test_TC1" />
         <item itemvalue="Python.Task10" />
         <item itemvalue="Python.ex_01_08Aug24" />
       </list>
@@ -385,7 +401,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724126827047</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Tasks 10,11 completed">
+      <option name="closed" value="true" />
+      <created>1724308886159</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1724308886159</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,6 +457,7 @@
     <MESSAGE value="Task 6 added" />
     <MESSAGE value="py ip configured" />
     <MESSAGE value="Tasks 7,8,9 Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks 7,8,9 Completed" />
+    <MESSAGE value="Tasks 10,11 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasks 10,11 completed" />
   </component>
 </project>
