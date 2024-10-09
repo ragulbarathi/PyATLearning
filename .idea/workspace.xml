@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Tasks 10,11 completed">
+    <list default="true" id="cd91bd0d-93c6-4a2d-9637-6a08c9ecef36" name="Changes" comment="Added Request module with pytest and allure report">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oct/test_RestfullBookerCollections.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/test_RestfullBookerCollections.py" afterDir="false" />
     </list>
@@ -417,7 +417,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728452355598</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Added Request module with pytest and allure report">
+      <option name="closed" value="true" />
+      <created>1728456209815</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1728456209815</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added Request module with pytest and allure report">
+      <option name="closed" value="true" />
+      <created>1728456232726</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1728456232726</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -466,6 +482,7 @@
     <MESSAGE value="py ip configured" />
     <MESSAGE value="Tasks 7,8,9 Completed" />
     <MESSAGE value="Tasks 10,11 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks 10,11 completed" />
+    <MESSAGE value="Added Request module with pytest and allure report" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Request module with pytest and allure report" />
   </component>
 </project>
